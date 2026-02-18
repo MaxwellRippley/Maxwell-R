@@ -1,0 +1,5 @@
+# No external dependencies required
+# This project uses only Python standard library
+
+# Optional: for enhanced formatting
+# rich>=13.0.0
